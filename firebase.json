@@ -1,0 +1,9 @@
+{
+  "firebase": "db-reddit",
+  "public": "dist",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
